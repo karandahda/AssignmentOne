@@ -1,0 +1,10 @@
+{
+  "simulation": "AssignmentOne.AssignmentOne",
+  "simulationId": "assignmentone",
+  "start": 1616772068618,
+  "description": "",
+  "scenarios": ["GetDetails"],
+  "assertions": [
+
+  ]
+}
