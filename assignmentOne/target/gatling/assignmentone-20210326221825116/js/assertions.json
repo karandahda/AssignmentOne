@@ -1,7 +1,7 @@
 {
   "simulation": "AssignmentOne.AssignmentOne",
   "simulationId": "assignmentone",
-  "start": 1616772004429,
+  "start": 1616797105116,
   "description": "",
   "scenarios": ["GetDetails"],
   "assertions": [
